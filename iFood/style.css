@@ -1,0 +1,73 @@
+
+h1{
+    color: #3E3E3E;
+    font-size: 48px;
+    margin: 16px;
+    font-family:Arial, Helvetica, sans-serif ;
+    }
+
+h2{
+    color:#ffffff;
+    font-size: 36px;
+    font-family:Arial, Helvetica, sans-serif ;
+    }
+a{
+    color:#3E3E3E;
+    font: 16px;
+    text-decoration: none;
+    font-family: var(--font2);
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
+.botao-buscarLojas{
+    color: #ffffff;
+    font-family: var(--font2);
+    font-size: 16px;
+    background-color: #93b53e;
+    padding: 10px;
+    border-radius: 4px;
+    }
+
+.botao-verOpções{
+    color:#ffffff ;
+    font: 16px;
+    background: #ea1d2c;
+    padding: 11.2px;
+    border-radius: 4px;
+}
+
+.botao-entrar{
+    color:#ffffff ;
+    font: 16px;
+    background: #ea1d2c;
+    padding: 11.2px;
+    border-radius: 4px;
+}
+.botao-criarContas{
+    color: #ea1d2c;
+    font: 16px;
+}
+
+
+img{
+    height: 42.27px ;
+}
+.img-carrinho{
+    
+    height: 214px;
+    background: #b6d048;
+    padding: 25px;
+    border-radius: 4px;
+}
+.img-hamburguer{
+    height: 214px;
+    background: #ea1d2c;
+    padding: 25px;
+    border-radius: 4px;
+}
+p{
+    font: 18px;
+    color: #3e3e3e;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+
